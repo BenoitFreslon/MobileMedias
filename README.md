@@ -1,10 +1,12 @@
 #MobileMedias
 
-Compilation of Photoshop scripts to generate Icons, screenshots and splash screens for iOS and Android.
+Compilation of Photoshop scripts to generate app icons, screenshots and splash screens for **iTunes** and **Goolge Play**.
+
+UPDATE: 12/26/2014
 
 ## Usage
 
-### Create Icons
+### Create Icons iOS 5-8
 
 * Open Photoshop
 * File > Script > Browse
@@ -12,7 +14,7 @@ Compilation of Photoshop scripts to generate Icons, screenshots and splash scree
 * Select a 1024x1024 icon
 * Select the destination folder
 
-### Create Screenshots
+### Create Screenshots iTunes and Google Play
 * Open the the **Screenshots.psd** with Photoshop
 * File > Script > Browse
 * Execute the "Create Screenshots.jsx"
