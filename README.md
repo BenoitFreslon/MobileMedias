@@ -2,7 +2,7 @@
 
 Compilation of Photoshop scripts to generate app icons, screenshots and splash screens for **iTunes** and **Goolge Play**.
 
-UPDATE: 12/26/2014
+UPDATE: 01/17/2015
 
 ## Usage
 
@@ -14,8 +14,8 @@ UPDATE: 12/26/2014
 * Select a 1024x1024 icon
 * Select the destination folder
 
-### Create Screenshots iTunes and Google Play
-* Open the the **Screenshots.psd** with Photoshop
+### Create Screenshots for iTunes and Google Play
+* Open the the **Lanscape.psd** or **Portrait.psd** with Photoshop
 * File > Script > Browse
 * Execute the "Create Screenshots.jsx"
 
