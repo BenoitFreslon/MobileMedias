@@ -1,5 +1,7 @@
 #MobileMedias
 
+![MobileMedias](https://raw.githubusercontent.com/BenoitFreslon/MobileMedias/master/demo.jpg
+)
 Compilation of Photoshop scripts to generate app icons, screenshots and splash screens for **iTunes** and **Goolge Play**.
 
 UPDATE: 01/17/2015
