@@ -93,7 +93,7 @@ try
       {"name": "Default-414w-736h@3x~iphone",    		"w":1242, "h":2208, "size":100, rotate:0},
       {"name": "Default-Landscape-414w-736h@3x~iphone",    		"w":1242, "h":2208, "size":100, rotate:0},
       
-      {"name": "Default-Portrait~ipad"           	    "w":768, "h":1024, "size":50, rotate:0}, 
+      {"name": "Default-Portrait~ipad",          	    "w":768, "h":1024, "size":50, rotate:0},
       {"name": "Default-PortraitUpsideDown~ipad",           	"w":768, "h":1024, "size":50, rotate:0}, 
       
       {"name": "Default-Landscape~ipad",           	"w":1024, "h":768, "size":50, rotate:0}, 
