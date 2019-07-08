@@ -1,0 +1,1 @@
+﻿#target photoshopfunction main(){    app.preferences.rulerUnits = Units.PIXELS ;     app.preferences.typeUnits = TypeUnits.PIXELS ;     //app.preferences.interpolation = ResampleMethod.AUTOMATIC;    app.activeDocument.mergeVisibleLayers();    app.activeDocument.resizeImage( 200 , 200, 72, ResampleMethod.PRESERVEDETAILS );}main();
