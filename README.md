@@ -4,7 +4,7 @@
 )
 Compilation of Photoshop scripts to generate app icons, screenshots and splash screens for **iTunes**, and **Google Play**.
 
-UPDATE: 11/22/2017
+UPDATE: 07/07/2019
 
 ## Usage
 
