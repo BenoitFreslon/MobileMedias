@@ -33,5 +33,5 @@ UPDATE: 07/07/2019
 
 Scripts based on various works:
 
-* http://thegamebakers.com/a-screenshot-exporter-for-the-app-store-and-google-play.html
+* https://www.thegamebakers.com/a-screenshot-exporter-for-the-app-store-and-google-play/
 * https://github.com/jessesquires/iOS-icons-script/blob/master/Create-iOS-icons.jsx
