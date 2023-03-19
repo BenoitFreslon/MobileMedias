@@ -200,6 +200,9 @@ function scanLayers() {
                 }
             }
         }
+        if ( groupname.split( "permanent" ).length > 1 ) {
+            groupScreen.visible = true;
+        }
     }
     //trace ("Scan layers "+ allLanguages+ " " + allLanguages.length);
 } 
