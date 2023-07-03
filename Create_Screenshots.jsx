@@ -18,18 +18,19 @@ var allScreenshots          = [];
 var normalCanvasSize = { width:2048, height:2732 };
 
 var allDevices              = [
-    {name:"3.5i iPhone 4s",            width:640, height:960, useNormalCanvas:true},  
-    {name:"4i iPhone SE",              width:640, height:1136, useNormalCanvas:true},
-    {name:"4.7i iPhone 8",             width:750, height:1334, useNormalCanvas:true},
-    {name:"5.5i iPhone 8 Plus",        width:1242, height:2208, useNormalCanvas:true},
-    {name:"5.8i iPhone X",             width:1125, height:2436, useNormalCanvas:false},
-    {name:"6.5i iPhone Xs Max",        width:1242, height:2688, useNormalCanvas:false},
+    {name:"6.7 iPhone 14 Pro Max",      width:1290, height:2796, useNormalCanvas:false},
+    {name:"6.5 iPhone 14 Plus",         width:1284, height:2778, useNormalCanvas:false},
+    {name:"6.1 iPhone 14 Pro",          width:1179, height:2556, useNormalCanvas:false},
+    {name:"5.8 iPhone 14",              width:1170, height:2532, useNormalCanvas:false},
+    {name:"5.5 iPhone 8",               width:1242, height:2208, useNormalCanvas:true},
+    {name:"4.7 iPhone SE (2nd gen.)",   width:750, height:1334, useNormalCanvas:true},
+    {name:"4 iPhone SE (1st gen.)",     width:640, height:1136, useNormalCanvas:true},  
     
-    {name:"9.7i iPad",                 width:1536, height:2048, useNormalCanvas:true},
-    {name:"10.5i iPad Air",            width:1668, height:2224, useNormalCanvas:true},
-    
-    {name:"11i iPad Pro'",             width:1668, height:2388, useNormalCanvas:true},
-    {name:"12.9i iPad Pro (3nd Gen)",  width:2048, height:2732, useNormalCanvas:true},
+    {name:"12.9 iPad Pro (6th gen.)",  width:2048, height:2732, useNormalCanvas:true},
+    {name:"12.9 iPad Pro (2nd gen.)",  width:2048, height:2732, useNormalCanvas:true},
+    {name:"11 iPad Pro",                width:1668, height:2388, useNormalCanvas:true},
+    {name:"10.5 iPad Air",            width:1668, height:2224, useNormalCanvas:true},
+    {name:"9.7 iPad",                 width:1536, height:2048, useNormalCanvas:true},
     
     {name:"Android Tablet 7",         width:1200, height:1920, useNormalCanvas:true},
     {name:"Android Tablet 10",        width:1600, height:2560, useNormalCanvas:true}
